@@ -9,3 +9,8 @@ pip install scikit-learn
 pip install tensorflow
 pip install keras
 ```
+
+# Work Summary
+
+* Random forest
+* SVM
