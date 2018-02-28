@@ -1,6 +1,15 @@
 # Project Description
 
-This is our analyses for the 2018 WiDs Datathon. The goal is to predict if a survey respondent is a male or a female based on 1200+ variables. The data are *very sparse*.
+This is our analyses for the 2018 Women in Data Science (WiDS) Datathon hosted by Stanford University. The goal is to predict if a survey respondent is a male or a female based on 1200+ variables. The data are *very sparse*.
+
+## Data Background
+
+The dataset contains demographic and behavioral information from a representative sample of survey respondents from India and their usage of traditional financial and mobile financial services. The data was obtained by a research group to help the world’s poorest people take advantage of widely available mobile phones and other digital technology to access financial tools and participate more fully in their local economies. Women in these communities, in particular, are often largely excluded from the formal financial system. By predicting gender, the datathon participants will explore the key differences in behavior patterns of men and women, and how that may impact their use of new financial services.
+
+## Work Summary
+
+* Random Forest
+* SVM
 
 # Python Installation
 
@@ -8,9 +17,3 @@ This is our analyses for the 2018 WiDs Datathon. The goal is to predict if a sur
 pip install scikit-learn
 pip install pandas
 ```
-
-# Work Summary
-
-* Random Forest
-* SVM
-* Naive Bayes
