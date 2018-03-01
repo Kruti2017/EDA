@@ -1,6 +1,6 @@
 # Project Description
 
-This is our analyses for the 2018 Women in Data Science (WiDS) Datathon hosted by Stanford University. The goal is to predict if a survey respondent is a male or a female based on 1200+ variables. The data are *very sparse*.
+This is our analyses for the 2018 Women in Data Science (WiDS) Datathon hosted by Stanford University. The goal is to predict if a survey respondent is a male or a female based on 1200+ variables. The data are *very sparse*. **Our model yielded 96.5% accuracy (ROC AUC).**
 
 ## Data Background
 
